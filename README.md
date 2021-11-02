@@ -1,5 +1,6 @@
 # TFG
-Software desarrollado para el trabajo de fin de grado de Matemáticas: **OPTIMIZACIOÓN DE SISTEMA ROBOTIZADO PARA PLANTAS DE RECICLAJE**
+Software desarrollado para el trabajo de fin de grado de Matemáticas:   
+**OPTIMIZACIÓN DE SISTEMA ROBOTIZADO PARA PLANTAS DE RECICLAJE**
 
 ## Abstract
 
